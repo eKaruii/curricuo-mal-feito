@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T13:45:40.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PcolUEyS5Wm3koyrKSKh" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T13:50:13.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1Q7nxPp7zQhTyg4ApWtj" version="24.2.1" type="github">
   <diagram name="Página-1" id="7-AiN3WwLCQ00PCy_Cad">
     <mxGraphModel dx="2261" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="zYudiOfwe8gszQuP8Tbu-19" value="email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="150" width="470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xXJ0SeURbfzUWzKTkKNh-1" value="https://bootstrapmade.com/bootstrap-portfolio-templates/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="420" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xXJ0SeURbfzUWzKTkKNh-2" value="https://startbootstrap.com/themes/portfolio-resume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="555" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
